@@ -32,7 +32,7 @@ The main goal of this project is to assist in the environmental monitoring of na
 
 4. Run the Python script:
     ```
-    python surveillance.py
+    python script.py
     ```
 
 5. The script will open your webcam and start detecting objects based on the loaded YOLO model.
